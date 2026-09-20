@@ -112,7 +112,7 @@ npm run preview
 
 Serve the generated `dist/` directory on a static host over HTTPS. Relative asset URLs allow deployment under a subdirectory, including repository-based GitHub Pages. There are no server-side routes, runtime secrets, or database migrations. See [deployment instructions](docs/deployment.md).
 
-Source is published in [Christiansada/threshold-atlas](https://github.com/Christiansada/threshold-atlas). The optional Sites demo is owner-private; a verified public application URL is not yet available. Use the included static deployment instructions to host your own copy.
+Try the [public live demo](https://christiansada.github.io/threshold-atlas/). Source is published in [Christiansada/threshold-atlas](https://github.com/Christiansada/threshold-atlas). The optional Sites deployment is owner-private. Use the included static deployment instructions to host your own copy.
 
 ## Data and model sources
 

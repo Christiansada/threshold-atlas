@@ -14,7 +14,7 @@ The computation runs in the browser. I would welcome contributions around indepe
 
 Repository: https://github.com/Christiansada/threshold-atlas
 
-Publication note: a verified public application URL is not yet available. Add one only after a live functional check.
+Live demo: https://christiansada.github.io/threshold-atlas/
 
 ## X
 
